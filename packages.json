@@ -2,5 +2,18 @@
 	{
 		"package": "binneR",
 		"url": "https://github.com/aberHRML/binneR"
+	},
+	{
+		"package": "meatbolyseR",
+		"url" : "https://github.com/aberHRML/metabolyseR"
+	},
+	{
+		"package": "grover",
+		"url" : "https://github.com/aberHRML/grover"
+	},
+	{
+		"package": "assignments",
+		"url" : "https://github.com/aberHRML/assignments"
 	}
+
 ]
