@@ -4,7 +4,7 @@
 		"url": "https://github.com/aberHRML/binneR"
 	},
 	{
-		"package": "meatbolyseR",
+		"package": "metabolyseR",
 		"url" : "https://github.com/aberHRML/metabolyseR"
 	},
 	{
@@ -14,6 +14,31 @@
 	{
 		"package": "assignments",
 		"url" : "https://github.com/aberHRML/assignments"
+	},
+	{
+		"package": "sRm",
+		"url" : "https://github.com/wilsontom/sRm"
+	},	
+	{
+		"package": "classyfireR",
+		"url" : "https://github.com/aberHRML/classyfireR"
+	},	
+	{
+		"package": "slurmwiz",
+		"url" : "https://github.com/wilsontom/slurmwiz"
+	},	
+	{
+		"package": "forestControl",
+		"url" : "https://github.com/aberHRML/forestControl"
+	},	
+	{
+		"package": "metabolighteR",
+		"url" : "https://github.com/aberHRML/metabolighteR"
+	},
+	{
+		"package": "msconverteR",
+		"url" : "https://github.com/wilsontom/msconverteR"
 	}
+		
 
 ]
